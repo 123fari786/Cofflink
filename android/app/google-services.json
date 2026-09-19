@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "931586118878",
+    "firebase_url": "https://cofflink-11119-default-rtdb.firebaseio.com",
+    "project_id": "cofflink-11119",
+    "storage_bucket": "cofflink-11119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931586118878:android:5f015cd2be09baf7be5e4f",
+        "android_client_info": {
+          "package_name": "com.cofflink.cofflink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSaX4y2WM9hcSa2pyskaJscA9cJ_8sdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931586118878:android:2de12e89d5fdcf4ebe5e4f",
+        "android_client_info": {
+          "package_name": "com.example.cofeelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSaX4y2WM9hcSa2pyskaJscA9cJ_8sdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
