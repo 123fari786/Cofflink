@@ -84,23 +84,23 @@ lib/
 
 ## 📱 Main Application Modules
 
-### Authentication
+### 🔐 Authentication
 
 Users can create an account and securely authenticate using Firebase Authentication.
 
-### Home & User Discovery
+### 🏠 Home & User Discovery
 
 The application provides a central interface where users can access application features and discover nearby users.
 
-### Real-Time Chat
+### 💬 Real-Time Chat
 
 Users can communicate through real-time messaging, with Firebase used for real-time data synchronization.
 
-### Flight Information
+### ✈️ Flight Information
 
 Cofflink integrates flight-related APIs to provide users with flight information.
 
-### AI Avatar
+### 🤖 AI Avatar
 
 The application includes an AI-powered feature for generating personalized user avatars.
 
@@ -122,35 +122,27 @@ REST APIs are used for retrieving and processing external application data, incl
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Application Screenshots
 
-Add your application screenshots here.
+### 🏠 Home Screen
 
-Example:
+<img src="Home%20Section.png" alt="Cofflink Home Screen" width="100%">
 
-```text
-screenshots/
-├── login.png
-├── home.png
-├── flight.png
-├── nearby-users.png
-├── chat.png
-└── ai-avatar.png
-```
+### ✈️ Flight Information
 
-Then display them in this section:
+<img src="Flight%20Information.png" alt="Cofflink Flight Information" width="100%">
 
-| Login          | Home           |
-| -------------- | -------------- |
-| Add screenshot | Add screenshot |
+### 💬 Chat Screen
 
-| Flight Information | Chat           |
-| ------------------ | -------------- |
-| Add screenshot     | Add screenshot |
+<img src="Chat%20Screen.png" alt="Cofflink Chat Screen" width="100%">
 
-| Nearby Users   | AI Avatar      |
-| -------------- | -------------- |
-| Add screenshot | Add screenshot |
+### ✈️ Flight Screen
+
+<img src="Flight%20Screen.png" alt="Cofflink Flight Screen" width="100%">
+
+### 👤 Profile Screen
+
+<img src="Profile%20Screen.png" alt="Cofflink Profile Screen" width="100%">
 
 ---
 
@@ -176,25 +168,25 @@ flutter doctor
 
 ## 📥 Installation
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/123fari786/Cofflink.git
 ```
 
-### 2. Open the project
+### 2. Open the Project
 
 ```bash
 cd Cofflink
 ```
 
-### 3. Install dependencies
+### 3. Install Dependencies
 
 ```bash
 flutter pub get
 ```
 
-### 4. Run the application
+### 4. Run the Application
 
 ```bash
 flutter run
@@ -255,10 +247,3 @@ Skills:
 This project is available for educational and portfolio purposes.
 
 If you intend to reuse or distribute the source code, please contact the project author.
-Profile Screen.png
-Flight Information.png
-Chat Screen.png
-Flight Screen.png
-Home Section.png
-
-
