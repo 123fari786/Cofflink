@@ -124,17 +124,19 @@ REST APIs are used for retrieving and processing external application data, incl
 
 ## 🖼️ Application Screenshots
 
+The following screenshots showcase the main user interface and functionality of the Cofflink mobile application.
+
 ### 🏠 Home Screen
 
 <img src="Home%20Section.png" alt="Cofflink Home Screen" width="100%">
 
 ### ✈️ Flight Information
 
-<img src="Flight%20Information.png" alt="Cofflink Flight Information" width="100%">
+<img src="Flight%20Information.png" alt="Cofflink Flight Information Screen" width="100%">
 
 ### 💬 Chat Screen
 
-<img src="Chat%20Screen.png" alt="Cofflink Chat Screen" width="100%">
+<img src="Chat%20Screen.png" alt="Cofflink Real-Time Chat Screen" width="100%">
 
 ### ✈️ Flight Screen
 
